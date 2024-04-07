@@ -21,12 +21,13 @@ Se o IMC for menor que 18.5, imprima "Categoria: Abaixo do peso".
 Se o IMC estiver entre 18.5 e menor que 25, imprima "Categoria: Peso normal".
 Se o IMC estiver entre 25 e menor que 30, imprima "Categoria: Sobrepeso".
 Se o IMC for 30 ou maior, imprima "Categoria: Obeso".
-		### Exemplo de Saída:
+
+### Exemplo de Saída:
         ```
-        Insira sua altura em metros: 1.75
-        Insira seu peso em quilogramas: 70
-        Seu IMC é: 22.86
-        Categoria: Peso normal
+        Insira sua altura em metros: 1.75 \n
+        Insira seu peso em quilogramas: 70 \n
+        Seu IMC é: 22.86 \n
+        Categoria: Peso normal \n
         ```
 
 ## Identificação de Quadrante de um Ponto no Plano Cartesiano: 
